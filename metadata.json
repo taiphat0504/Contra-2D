@@ -1,0 +1,6 @@
+{
+  "name": "Contra 2D: Chiến Binh Tri Thức",
+  "description": "Trò chơi bắn súng Contra 2D phong cách pixel cổ điển với cơ chế bắn 8 hướng, kho vũ khí phong phú, chướng ngại vật câu hỏi kiến thức đa môn học và bảng xếp hạng thành tích cao.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
