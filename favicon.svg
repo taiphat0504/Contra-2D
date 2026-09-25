@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="6" fill="#090d16"/>
+  <rect x="2" y="2" width="28" height="28" rx="4" fill="#0f172a" stroke="#ef4444" stroke-width="2"/>
+  <!-- 8-Bit Pixel Soldier Headband -->
+  <rect x="8" y="8" width="16" height="5" fill="#dc2626"/>
+  <rect x="22" y="11" width="4" height="6" fill="#dc2626"/>
+  <rect x="24" y="15" width="4" height="6" fill="#dc2626"/>
+  <!-- Face -->
+  <rect x="10" y="13" width="12" height="10" fill="#fbcfe8"/>
+  <rect x="12" y="15" width="2" height="2" fill="#0f172a"/>
+  <rect x="18" y="15" width="2" height="2" fill="#0f172a"/>
+  <!-- Laser Sight Gun -->
+  <rect x="14" y="21" width="12" height="4" fill="#64748b"/>
+  <circle cx="27" cy="23" r="2" fill="#06b6d4"/>
+</svg>
